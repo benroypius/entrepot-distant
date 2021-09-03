@@ -1,0 +1,3 @@
+mkdir TEST
+cd test
+git init
